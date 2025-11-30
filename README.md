@@ -15,7 +15,7 @@
 
 ## La API está pensada para practicar conceptos de autenticación sin usar Spring Security, ideal para ejercicios de nivel intermedio.
 
-##Requisitos técnicos:
+## Requisitos técnicos:
 - Java 21
 - Spring Boot
 - MySQL
