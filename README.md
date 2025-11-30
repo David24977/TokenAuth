@@ -3,7 +3,7 @@
 ## API REST sencilla para autenticar un usuario ya registrado y generar un token UUID con expiración automática.
 ### El backend contiene:
 
-- Entidad Usuario (id, username, password, token, tokenExpiration)
+- Entidad Usuario (id(UUID), username, password, token, tokenExpiration)
 
 - Endpoint /login: valida credenciales y genera un token nuevo
 
